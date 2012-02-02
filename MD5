@@ -1,0 +1,10 @@
+3d742abb7805ec4657b4defa01bcae32 *DESCRIPTION
+df390c53434517b304ac5db487184641 *NAMESPACE
+2a1df306c625a3b78ae1a3332108019e *R/OptionsPdf.R
+f2e69c52f2c3687a6aa9e440432b7f9c *demo/00Index
+6733bf2daa4db0930488ae85c9c2a0a2 *demo/example.R
+f36ceef48af4bee20914095f17cba1b3 *man/MixedNormalPdf.Rd
+9802bd958997f8f2b7a8c8b2e5dcc97c *man/OptionMixLNorm.Rd
+322a683d1b60042ceacaa1c6e57f04fb *man/OptionMixLNormLoss.Rd
+6e33d2dd14455a40861da61fbc72d98d *man/OptionsPdf-package.Rd
+037fe26ac4a4b0fdd2393e23ba519710 *man/erf.Rd
